@@ -53,4 +53,19 @@ division = num_one/num_two
 remainder = num_two % num_one
 
 # 10 Calculate num_one to the power of num_two and assign the value to a variable exp
-exp = 
+exp = num_one ** num_two
+
+# 11 Floor division of num_one by num_two
+floor_division = num_one // num_two
+
+# 12 the radius of a circle is 30 meters
+
+# i. Area of a circle
+import math 
+radius = 30
+area_of_circle = math.pi * radius * radius
+
+# ii. Circumference of a circle
+circum_of_circle = 2 * math.pi * radius
+
+# 13. 
